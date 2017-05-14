@@ -1,0 +1,24 @@
+{
+  "name": "exit",
+  "version": "1.0.0",
+  "description": "Bot at the TED Hack Week.",
+  "main": "index.js",
+  "dependencies": {
+    "botbuilder": "^3.8.1",
+    "restify": "^4.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facundod/TEDHackWeekBot.git"
+  },
+  "author": "Facundo Davancens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/facundod/TEDHackWeekBot/issues"
+  },
+  "homepage": "https://github.com/facundod/TEDHackWeekBot#readme"
+}
